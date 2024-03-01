@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+
 
 :root{
     --Azul-capa: #000123;
@@ -21,14 +21,11 @@ body{
 body h1{
     color: white;
   font-family:league-sparta;
+ margin-left: 360px;
+ font-size:120px;
 }
 
 body p{
     color: #FF0F7B;
+    margin-left: 80px;
 }
-{
-    font-family: "League Spartan", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-  }
