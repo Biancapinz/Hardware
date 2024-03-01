@@ -28,22 +28,39 @@ h1{
 }
 body h1{
     color: white;
-<<<<<<< HEAD
-  font-family:;
-=======
-  font-family:league-sparta;
+    font-family: TT Octosquares;
  margin-left: 360px;
  font-size:120px;
->>>>>>> 8ffae2c87330e95d26d366da9f77d548850c5943
 }
 
 body p{
     color: #FF0F7B;
     margin-left: 80px;
 }
-<<<<<<< HEAD
 p{
     font-family: rundefont;
   }
-=======
->>>>>>> 8ffae2c87330e95d26d366da9f77d548850c5943
+footer{
+    width: 1000px;
+}
+footer h3{
+    font-family: TT Octosquares;
+    color: white;
+    font-size: 60px;
+    margin-left: 29vw;
+}
+
+footer h4{
+    font-family: TT Octosquares;
+    color: var(--rosa-letra);
+    float: left;
+    margin-left: 2vw;
+    font-size: 20px;
+}
+footer #pri h4{
+    margin-left: 25vw;
+}
+footer a:hover {
+    width: 11rem;
+    height: 5rem;
+   }
