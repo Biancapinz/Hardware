@@ -10,8 +10,6 @@
     --rosa-fundo: #fdf5d8;
 }
 
-
-
 body{
     background-color: #000123;
     width:50vw ;
@@ -26,9 +24,12 @@ body h1{
 body p{
     color: #FF0F7B;
 }
-{
-    font-family: "League Spartan", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-  }
+
+#blueto h5{
+color: #9E5AFF;
+}
+
+#pis{
+    width: 20px;
+    height: 20px;
+}
