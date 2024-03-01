@@ -9,26 +9,31 @@
     --rosa-claro: #ffc7a2;
     --rosa-fundo: #fdf5d8;
 }
-
-
-
+@font-face {
+    font-family: TT Octosquares;
+    src: url("fontes/TT\ Octosquares\ Trial\ Bold.ttf");
+}
+@font-face {
+    font-family: rundefont;
+    src: url(fontes/Boohong.ttf);
+}
 body{
     background-color: #000123;
     width:50vw ;
     height: 20vh;
+    font-family: League Spartan;
 }
-
+h1{
+   font-family: TT Octosquares;
+}
 body h1{
     color: white;
-  font-family:league-sparta;
+  font-family:;
 }
 
 body p{
     color: #FF0F7B;
 }
-{
-    font-family: "League Spartan", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+p{
+    font-family: rundefont;
   }
