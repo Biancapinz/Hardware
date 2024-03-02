@@ -19,7 +19,7 @@
 }
 body{
     background-color: #000123;
-    width:50vw ;
+    width:100% ;
     height: 20vh;
     font-family: League Spartan;
 }
@@ -41,7 +41,7 @@ p{
     font-family: rundefont;
   }
 footer{
-    width: 1000px;
+    width: 100%;
 }
 footer h3{
     font-family: TT Octosquares;
