@@ -33,3 +33,9 @@ color: #9E5AFF;
     width: 20px;
     height: 20px;
 }
+.modal-body{
+    background-color: pink;
+}
+.btn{
+    background-color: brown;
+}
