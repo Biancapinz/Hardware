@@ -1,0 +1,62 @@
+
+
+:root{
+    --Azul-capa: #000123;
+    --rosa-letra: #FF0F7B;
+    --roxo-letra: #9E5AFF;
+    --marrom-claro:#AB5009;
+    --marrom-avermelhado: #9E4910;
+    --rosa-claro: #ffc7a2;
+    --rosa-fundo: #fdf5d8;
+}
+@font-face {
+    font-family: TT Octosquares;
+    src: url("fontes/TT\ Octosquares\ Trial\ Bold.ttf");
+}
+@font-face {
+    font-family: rundefont;
+    src: url(fontes/Boohong.ttf);
+}
+body{
+    background-color: #000123;
+    width:100% ;
+    height: 20vh;
+    font-family: League Spartan;
+}
+h1{
+   font-family: TT Octosquares;
+}
+body h1{
+    color: white;
+    font-family: TT Octosquares;
+ margin-left: 360px;
+ font-size:120px;
+}
+
+body p{
+    color: #FF0F7B;
+    margin-left: 80px;
+}
+p{
+    font-family: rundefont;
+  }
+footer{
+    width: 100%;
+}
+footer h3{
+    font-family: TT Octosquares;
+    color: white;
+    font-size: 60px;
+    margin-left: 29vw;
+}
+
+footer h4{
+    font-family: TT Octosquares;
+    color: var(--rosa-letra);
+    float: left;
+    margin-left: 2vw;
+    font-size: 20px;
+}
+footer #pri h4{
+    margin-left: 25vw;
+}
