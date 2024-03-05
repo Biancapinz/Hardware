@@ -35,11 +35,14 @@ color: #9E5AFF;
 }
 .modal-header{
     background-color: chartreuse;
+    height: 6,5vh;
 }
 .modal-body{
     background-color: pink;
+    height: 30vh;
 }
 .modal-footer{
     background-color: blueviolet;
+    height: 6,5vh;
 }
 
