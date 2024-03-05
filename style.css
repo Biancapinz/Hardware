@@ -72,6 +72,7 @@ footer #pri h4{
     background-color: #fdf5d8;
     float: left;
     margin-left: 50vh;
+    border-radius: 5vh;
 
 }
 
@@ -81,6 +82,7 @@ footer #pri h4{
     background-color: #fdf5d8;
     float: left;
     margin-left: 25vh;
+    border-radius: 5vh;
 }
 
 
