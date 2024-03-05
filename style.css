@@ -73,8 +73,15 @@ footer #pri h4{
     float: left;
     margin-left: 50vh;
     border-radius: 5vh;
+    display: block;
 
 }
+.card-text{
+    width:100vw ;
+    height:80vh ;
+    display: block;
+}
+
 
 .card2{
     width:100vw ;
@@ -83,6 +90,13 @@ footer #pri h4{
     float: left;
     margin-left: 25vh;
     border-radius: 5vh;
+}
+
+.card2-text{
+    width:100vw ;
+    height:80vh ;
+    display: block;
+    
 }
 
 
