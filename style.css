@@ -33,3 +33,13 @@ color: #9E5AFF;
     width: 20px;
     height: 20px;
 }
+.modal-header{
+    background-color: chartreuse;
+}
+.modal-body{
+    background-color: pink;
+}
+.modal-footer{
+    background-color: blueviolet;
+}
+
