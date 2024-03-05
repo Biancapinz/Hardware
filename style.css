@@ -67,10 +67,20 @@ footer #pri h4{
 }
 
 .card{
-    width: ;
-    height: ;
+    width:100vw ;
+    height:80vh ;
     background-color: #fdf5d8;
+    float: left;
+    margin-left: 50vh;
 
+}
+
+.card2{
+    width:100vw ;
+    height:80vh ;
+    background-color: #fdf5d8;
+    float: left;
+    margin-left: 25vh;
 }
 
 
