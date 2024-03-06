@@ -100,3 +100,77 @@ footer #pri h4{
 }
 
 
+
+body h1{
+    color: white;
+  font-family:league-sparta;
+}
+
+body p{
+    color: #FF0F7B;
+}
+
+#blueto h5{
+color: #9E5AFF;
+}
+
+#pis{
+    width: 20px;
+    height: 20px;
+}
+.modal-header{
+    background-color: var(--Azul-capa);
+    height: 6,5vh;
+    width: 60vw;
+}
+.modal-body{
+    background-color: var(--Azul-capa);
+    height: 60vh;
+    width: 60vw;
+}
+.modal-footer{
+    background-color: var(--Azul-capa);
+    height: 6,5vh;
+    width: 60vw;
+}
+#placa1{
+    width: 20vw;
+    height: 40vh;
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+.caixatexto{
+    float: right;
+    width: 100%;
+    padding-left: 30vw;
+    position: absolute;
+    top: 0%;
+    margin-top: 6vh;
+}
+.textoplaca{
+    font-size: 2.5vh;
+    width: 23vw;
+    padding-top: 0.5vh;
+    color: white;
+}
+#placa2{
+    width: 20vw;
+    height: 40vh;
+    margin-left: 5vw;
+    margin-top: 5vh;
+    padding-bottom: 10vh;
+}
+.caixatexto2{
+    float: right;
+    width: 100%;
+    padding-left: 30vw;
+    position: absolute;
+    top: 0%;
+    margin-top: 6vh;
+}
+.textoplaca2{
+    font-size: 2.5vh;
+    width: 23vw;
+    padding-top: 0.5vh;
+    color: white;
+}
