@@ -80,6 +80,13 @@ footer #pri h4{
     width:100vw ;
     height:80vh ;
     display: block;
+    position: absolute;
+    margin-left: 0;
+    font-size: 5vh;
+    margin-top: 45vh;
+    margin-left: 5vh;
+    font-size: 4vh;
+    color: #9E5AFF;
 }
 
 
@@ -88,7 +95,7 @@ footer #pri h4{
     height:80vh ;
     background-color: #fdf5d8;
     float: left;
-    margin-left: 25vh;
+    margin-left: 35vh;
     border-radius: 5vh;
 }
 
@@ -96,6 +103,13 @@ footer #pri h4{
     width:100vw ;
     height:80vh ;
     display: block;
+    position: absolute;
+    margin-left: 0;
+    font-size: 5vh;
+    margin-top: 47vh;
+    margin-left: 5vh;
+    font-size: 4vh;
+    color: #9E5AFF;
     
 }
 
