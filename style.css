@@ -174,3 +174,20 @@ color: #9E5AFF;
     padding-top: 0.5vh;
     color: white;
 }
+.tituloplaca{
+    font-size: 2.5vw;
+    color: #FF0F7B;
+    position: relative;
+    margin-left: 0;
+    font-family: TT Octosquares;
+}
+.tituloplaca2{
+    font-size: 2.5vw;
+    color: #FF0F7B;
+    position: relative;
+    margin-left: 0;
+    font-family: TT Octosquares;
+}
+.btn.btn-secondary{
+    background-color: #FF0F7B;
+}
