@@ -41,6 +41,10 @@ header p{
 p{
     font-family: rundefont;
   }
+  footer{
+    
+    width: 100%;
+  }
 footer h3{
     font-family: TT Octosquares;
     color: white;
