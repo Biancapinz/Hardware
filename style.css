@@ -88,7 +88,7 @@ footer #pri h4{
     margin-left: 0;
     font-size: 5vh;
     margin-top: 10vh;
-    margin-left: 5vh;
+    margin-left: 2vh;
     font-size: 4vh;
     color: #9E5AFF;
 }
@@ -111,7 +111,7 @@ footer #pri h4{
     margin-left: 0;
     font-size: 5vh;
     margin-top: 14vh;
-    margin-left: 5vh;
+    margin-left: 9vh;
     font-size: 4vh;
     color: #9E5AFF;
     
@@ -214,12 +214,12 @@ color: #9E5AFF;
 
 #botão1{
 position: absolute;
-left: 32%;
+left: 32.5%;
 top: 100%;
 }
 
 #botao2{
     position: absolute;
-    left: 72%;
+    left: 70%;
     top: 100%;
 }
